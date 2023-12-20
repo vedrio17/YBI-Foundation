@@ -1,5 +1,4 @@
 # Classification Model to Identify Multiple Diseases Project
-![Project Logo/ Image]
 
 ## Overview
 This repository contains the codebase and documentation for the "Classification Model to Identify Multiple Diseases" project conducted under the YBI FOUNDATION internship program. The project focuses on leveraging data analytics techniques to develop a robust classification model capable of identifying multiple diseases.
@@ -47,9 +46,11 @@ The primary goal of this project is to design and implement a classification mod
 -Data Preprocessing:
 
 Execute notebooks/data_preprocessing.ipynb to preprocess the raw data.
+
 -Model Training:
 
 Run notebooks/model_training.ipynb to train the classification model.
+
 -Evaluation:
 
 Evaluate the model using notebooks/evaluation.ipynb.
